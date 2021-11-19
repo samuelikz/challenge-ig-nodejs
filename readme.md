@@ -28,8 +28,8 @@ NodeJs
 ```sh
 { 
 	id: 'uuid', // precisa ser um uuid
-	name: 'Danilo Vieira', 
-	username: 'danilo', 
+	name: 'Samuel', 
+	username: 'Samuel Nunes', 
 	todos: []
 }
 ```
