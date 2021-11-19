@@ -25,16 +25,17 @@ NodeJs
 * Uuid
 
 ### Retorno Metodo post users
-
+```sh
 { 
 	id: 'uuid', // precisa ser um uuid
 	name: 'Danilo Vieira', 
 	username: 'danilo', 
 	todos: []
 }
+```
 
 ### Retorno Metodo post todos
-
+```sh
 { 
 	id: 'uuid', // precisa ser um uuid
 	title: 'Nome da tarefa',
@@ -42,4 +43,4 @@ NodeJs
 	deadline: '2021-02-27T00:00:00.000Z', 
 	created_at: '2021-02-22T00:00:00.000Z'
 }
-
+```
